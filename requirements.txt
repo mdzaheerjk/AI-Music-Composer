@@ -1,0 +1,9 @@
+streamlit
+langchain
+python-dotenv
+langchain_core
+langchain_community
+langchain_groq
+scipy
+synthesizer
+music21
